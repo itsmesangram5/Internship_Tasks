@@ -1,0 +1,21 @@
+Step 1
+
+Import the project in your IDE ( most prefer Eclipse )
+
+Step2
+
+You Should have all the required libraries and oackages imported for execution
+the packages are related to Swing 
+
+Step 3
+
+The JDK version Should be equal or greater than Java8
+
+Step4
+
+Run the test.java in your IDE
+
+Step 4 
+You Will See the admin Page 
+the Username is "admin"
+password is "1234"
